@@ -1,5 +1,9 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
+spec:
+  system: AAP
+  lifecycle: production
+  type: service
 metadata:
   name: my-service
   description: A test service with a custom annotation.
