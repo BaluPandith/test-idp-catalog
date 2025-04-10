@@ -4,10 +4,7 @@ spec:
   system: AAP
   lifecycle: production
   type: service
-  consumesApis: []
   owner: UAL-Harness-AirportOps-AAP-admin-DGG
 metadata:
   name: aap_passengerlists_bff
-  annotations:
-    mycompany.com/owner-info: team-alpha
   description: A notification service that sends automated alerts to users about account activity, security updates, and personalized recommendatio
