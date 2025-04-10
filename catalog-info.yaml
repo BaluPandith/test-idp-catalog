@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: sample-service
-  description: A service with a custom annotation for the Hi plugin.
+  name: my-service
+  description: A test service with a custom annotation.
   annotations:
     mycompany.com/owner-info: team-alpha
 spec:
