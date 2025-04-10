@@ -9,7 +9,3 @@ metadata:
   description: A test service with a custom annotation.
   annotations:
     mycompany.com/owner-info: team-alpha
-spec:
-  type: service
-  owner: user:guest
-  lifecycle: production
