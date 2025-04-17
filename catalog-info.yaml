@@ -19,6 +19,7 @@ metadata:
     lighthouse.com/website-url: https://backstage.io
     mycompany.com/owner-info: team-alpha
     ual-custom-plugin/dynatrace: "SERVICE-C8F07FDCC7AC0C42"
+    ual-custom-plugin/environment: dev
 spec:
   type: library
   owner: CNCF
